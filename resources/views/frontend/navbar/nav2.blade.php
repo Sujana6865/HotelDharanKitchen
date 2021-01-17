@@ -6,23 +6,23 @@
 
         <div class="float-right flex">
             <ul class=" text-red-800">
-                <li class="inline-block font-serif text-md ">
-                    <a href="" class="hover:no-underline  hover:border-red-700">HOME</a>
+                <li class="inline-block text-md ">
+                    <a href="" class="font-bold hover:no-underline  hover:text-white">HOME</a>
                 </li>
-                <li class="inline-block ml-5  font-serif text-md">
-                    <a href="#" class="hover:no-underline">ABOUT</a>
+                <li class="inline-block ml-5 text-md">
+                    <a href="#" class=" font-bold hover:no-underline hover:text-white">ABOUT</a>
                 </li>
-                <li class="inline-block ml-5  font-serif text-md">
-                    <a href="#" class="hover:no-underline">SERVICES</a>
+                <li class="inline-block ml-5 text-md">
+                    <a href="#" class=" font-bold hover:no-underline hover:text-white">SERVICES</a>
                 </li>
-                <li class="inline-block ml-5  font-serif text-md">
-                    <a href="" class="hover:no-underline">GALLERY</a>
+                <li class="inline-block ml-5 text-md">
+                    <a href="" class=" font-bold hover:no-underline hover:text-white">GALLERY</a>
                 </li>
-                <li class="inline-block ml-5  font-serif text-md">
-                    <a href="" class="hover:no-underline">CONTACT</a>
+                <li class="inline-block ml-5 text-md">
+                    <a href="" class=" font-bold hover:no-underline hover:text-white">CONTACT</a>
                 </li>
                 <li class="inline-block border-2 border-white border-solid rounded text-white font-bold ml-5">
-                    <a href="" class="px-6  hover:no-underline">Book Now</a>
+                    <a href="" class="px-6  hover:no-underline hover:text-red-800">Book Now</a>
                 </li>
             </ul>
         </div>
